@@ -68,14 +68,3 @@ main > .tagline {
 .icons-social a svg path{
 	fill: #FAFAFA;
 }
-
-.devto {
-	margin-bottom: -0.20rem;
-}
-
-.devto svg {
-	margin-bottom: -0.20rem;
-	margin-left: 0.675rem;;
-	width: 2.65rem;
-	height: 2.65rem;
-}
