@@ -34,7 +34,9 @@ html {
 
 /* Custom Styles */
 
-main {
+main { 
+        background: #43A047;
+	color: #FAFAFA;
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
@@ -57,6 +59,14 @@ main > .tagline {
 
 .icons-social i {
 	padding: 10px;
+}
+
+.icons-social a {
+	color: #FAFAFA;
+}
+
+.icons-social a svg path{
+	fill: #FAFAFA;
 }
 
 .devto {
